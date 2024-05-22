@@ -436,3 +436,62 @@ Place_Id,Place_Name,Description,Category,City,Price,Rating,Time_Minutes,Coordina
 435,Taman Air Mancur Menari Kenjeran,"Air mancur menari atau dancing fountain juga ada di kawasan jembatan kenjeran Surabaya. Air mancur ini di buat bersamaan dengan pembuatan jembatan kenjeran, di resmikan pada tanggal 9 juli 2016 lalu. Sejak diresmikannya air mancur dan jembatan yang membentang di atas laut dengan panjang 800 meter ini menjadi tujuan wisata bagi warga Surabaya dan sekitarnya. Dancing fountain yang indah tidak lepas dari komponen-komponen yang bekerja di dalamnya seperti nozzle sebagai tempat keluarnya air, dari nozzle inilah semburan air bisa berubah ubah. Air yang keluar di dorong oleh pompa air mancur yang mendorong dari tempat rendah ke tempat lebih tinggi. Pemilihan lampu yang tepat akan menambah kualitas pencahayaan lebih terang, sebaiknya menggunakan underwater led atau waterproof led karena lampu ini bersifat tahan air. Tentu akan menambah tampilan air mancur menari lebih memikat.",Taman Hiburan,Surabaya,0,4.4,45,"{'lat': -7.2752955, 'lng': 112.7549381}",-7.2752955,112.7549381,,435
 436,Taman Flora Bratang Surabaya,Taman Flora adalah salah satu taman kota di Surabaya yang merupakan fasilitas publik dari Pemkot setempat. Sehingga tempat ini memang sengaja dibuat untuk dinikmati oleh khalayak umum. Karena taman ini merupakan fasilitas publik yang didirikan oleh Pemkot Surabaya maka bagi siapa saja jika ingin memanfaatkan taman kota ini tidak perlu membayar tiket masuk alias gratis.,Taman Hiburan,Surabaya,0,4.6,,"{'lat': -7.294330299999999, 'lng': 112.7617534}",-7.2943303,112.7617534,,436
 437,Gereja Perawan Maria Tak Berdosa Surabaya,"Gereja Katolik Kelahiran Santa Perawan Maria merupakan salah satu gereja tua di kota Surabaya, Jawa Timur, Indonesia. Berlokasi di Jalan Kepanjen, Surabaya, bangunan religius ini berdampingan dengan gedung SMA Katolik Frateran Surabaya.",Tempat Ibadah,Surabaya,10000,4.8,,"{'lat': -7.2420758, 'lng': 112.7368158}",-7.2420758,112.7368158,,437
+438,Jatim Park 1,Taman rekreasi edukasi dengan berbagai wahana permainan dan museum.,Taman Rekreasi,Malang,,4.5,,"{'lat': -7.883131, 'lng': 112.533232}",-7.883131,112.533232,,438
+439,Jatim Park 2 (Batu Secret Zoo & Museum Satwa),Kebun binatang modern dan museum satwa dengan koleksi binatang yang lengkap.,"Kebun Binatang, Museum",Malang,,4.7,,"{'lat': -7.883479, 'lng': 112.533682}",-7.883479,112.533682,,439
+440,Museum Angkut,Museum transportasi yang menampilkan berbagai kendaraan dari berbagai era dan negara.,Museum,Malang,,4.6,,"{'lat': -7.884149, 'lng': 112.521843}",-7.884149,112.521843,,440
+441,Batu Night Spectacular (BNS),Taman hiburan malam dengan berbagai wahana dan pertunjukan lampu.,Taman Hiburan,Malang,120000,4.5,,"{'lat': -7.886302, 'lng': 112.528728}",-7.886302,112.528728,,441
+442,Coban Rondo,Air terjun alami dengan pemandangan indah dan fasilitas outbound.,Alam,Malang,,4.3,,"{'lat': -7.887322, 'lng': 112.525579}",-7.887322,112.525579,,442
+443,Taman Rekreasi Selecta,"Taman bunga dengan kolam renang, kebun, dan wahana permainan.",Taman Rekreasi,Malang,,4.2,,"{'lat': -7.815129, 'lng': 112.545839}",-7.815129,112.545839,,443
+444,Alun-Alun Batu,"Taman kota dengan wahana permainan, air mancur, dan area kuliner.",Taman Kota,Malang,,4.3,,"{'lat': -7.871829, 'lng': 112.524078}",-7.871829,112.524078,,444
+445,Coban Rais,Air terjun yang terkenal dengan spot foto gardu pandang dan sepeda gantung.,Alam,Malang,,4.4,,"{'lat': -7.923391, 'lng': 112.526092}",-7.923391,112.526092,,445
+446,Omah Kayu,Penginapan dan area rekreasi dengan rumah pohon di kawasan pegunungan.,Alam,Malang,,4.5,,"{'lat': -7.871628, 'lng': 112.525652}",-7.871628,112.525652,,446
+447,Pantai Balekambang,"Pantai dengan pura di tengah laut yang mirip Tanah Lot di Bali.
+Kategori: Pantai",Pantai,Malang,,4.6,,"{'lat': -8.401234, 'lng': 112.569245} ",-8.401234,112.569245,,447
+448,Pantai Tiga Warna,Pantai dengan air laut yang memiliki tiga gradasi warna.,Pantai,Malang,,4.5,,"{'lat': -8.427882, 'lng': 112.678467}",-8.427882,112.678467,,448
+449,Kampung Warna-Warni Jodipan,Permukiman yang dicat dengan warna-warna cerah sebagai destinasi wisata fotografi.,Wisata Budaya,Malang,,4.4,,"{'lat': -7.982978, 'lng': 112.633912}",-7.982978,112.633912,,449
+450,Hawai Waterpark,Taman bermain air dengan berbagai wahana kolam renang dan seluncuran.,Taman Air,Malang,,4.3,,"{'lat': -7.930930, 'lng': 112.659790}",-7.93093,112.65979,,450
+451,Taman Safari Prigen,Kebun binatang safari dengan berbagai macam satwa dari seluruh dunia.,Kebun Binatang,Malang,,4.5,,"{'lat': -7.773491, 'lng': 112.696931}",-7.773491,112.696931,,451
+452,Gunung Bromo,Gunung berapi aktif dengan pemandangan matahari terbit yang memukau.,"Gunung, Alam",Malang,,4.8,,"{'lat': -7.942493, 'lng': 112.953012}",-7.942493,112.953012,,452
+453,Kebun Teh Wonosari,Perkebunan teh yang menawarkan tur kebun dan pabrik teh serta wisata edukasi.,Wisata Edukasi,Malang,,4.4,,"{'lat': -7.849029, 'lng': 112.514789}",-7.849029,112.514789,,453
+454,Coban Talun,Air terjun dengan kawasan hutan pinus dan berbagai spot foto menarik.,Alam,Malang,,4.4,,"{'lat': -7.888491, 'lng': 112.521931}",-7.888491,112.521931,,454
+455,Malang Night Paradise,Taman lampu malam dengan berbagai instalasi lampu yang menarik.,Taman Hiburan,Malang,,4.4,,"{'lat': -7.957788, 'lng': 112.613216}",-7.957788,112.613216,,455
+456,Lembah Indah Malang,"Kawasan wisata alam dengan pemandangan lembah dan gunung, serta spot glamping.","Alam, Glamping",Malang,,4.5,,"{'lat': -8.036579, 'lng': 112.562915}",-8.036579,112.562915,,456
+457,Coban Pelangi,Air terjun yang menawarkan pelangi alami di bawah sinar matahari tertentu.,Alam,Malang,,4.4,,"{'lat': -8.017823, 'lng': 112.914573}",-8.017823,112.914573,,457
+458,Batu Flower garden,Taman bunga dengan berbagai spot foto menarik dan pemandangan,Taman Rekreasi,Malang,120000,4.1,,"{'lat':  -7.882465, 'lng': 112.520963} ",-7.8882465,112.520963,,458
+459,Coban Putri,Air terjun dengan suasana alami dan fasilitas untuk berkemah.,Alam,Malang,,4.5,,"{'lat': -7.897793, 'lng': 112.530698}",-7.897793,112.530698,,459
+460,Bukit Teletubbies Bromo,"Bukit hijau yang menyerupai latar belakang acara TV Teletubbies, dengan pemandangan indah",Alam,Malang,,4.6,,"{'lat': -7.936111, 'lng': 112.953611}",-7.936111,112.953611,,460
+461,Sumber Maron,Pemandian alami dengan air terjun kecil dan sungai yang jernih.,"Alam, Pemandian",Malang,,4.3,,"{'lat': -8.206013, 'lng': 112.573938}",-8.8206013,112.573938,,461
+462,Pantai Ngliyep,"Pantai dengan pasir putih dan ombak yang tenang, cocok untuk berkemah.",Pantai,Malang,,4.4,,"{'lat': -8.396556, 'lng': 112.497583} ",-8.396556,112.497583,,462
+463,Pantai Goa Cina,"Pantai dengan formasi batuan dan gua yang menarik, serta ombak besar.",Pantai,Malang,,4.5,,"{'lat':-8.428774, 'lng': 112.661524}",-8.428774,112.661524,,463
+464,Pantai Sendang Biru,Pantai yang terkenal dengan keindahan laut biru dan pulau Sempu di,Pantai,Malang,,4.6,,"{'lat': -8.438321, 'lng': 112.681581} ",-8.438321,112.681581,,464
+465,Kampung Biru Arema,"Kampung tematik yang dicat biru, menggambarkan semangat Arema",Wisata Budaya,Malang,,4.3,,"{'lat': -7.983912, 'lng': 112.634789}",-7.983912,112.634789,,465
+466,Masjid Tiban Turen,Masjid unik dengan arsitektur megah dan cerita mistis yang menarik.,Religi,Malang,,4.4,,"{'lat': -8.178778, 'lng': 112.707300}",-8.178778,112.7073,,466
+467,Pantai Bujulmati,Pantai dengan pasir hitam dan formasi batuan karang yang unik.,Pantai,Malang,,4.4,,"{'lat': -8.395555, 'lng': 112.655278}",-8.395555,112.655278,,467
+468,Pantai Clungup,Pantai yang tersembunyi dengan pasir putih dan hutan mangrove.,Pantai,Malang,,4.5,,"{'lat': -8.425555, 'lng': 112.679167}",-8.425555,112.679167,,468
+469,Pantai Lenggoksono,Pantai yang cocok untuk aktivitas snorkeling dan memancing.,Pantai,Malang,,4.4,,"{'lat': -7.887500, 'lng': 112.525000}",-7.8875,112.525,,469
+470,Taman Indie Resto,Restoran dengan konsep taman dan pemandangan sungai yang asri.,"Kuliner, Wisata Alam",Malang,,4.4,,"{'lat': -7.964611, 'lng': 112.616711}",-7.964611,112.616711,,470
+471,Kusuma Agrowisata,Wisata petik buah dan kebun dengan berbagai aktivitas agro.,Agrowisata,Malang,,4.5,,"{'lat': -7.871667, 'lng': 112.522222}",-7.871667,112.522222,,471
+472,Museum Malang Tempo Doloe,Museum yang menampilkan sejarah dan budaya Malang dari masa lalu.,Museum,Malang,,4.4,,"{'lat': -7.978211,'lng':  112.628256}",-7.978211,112.628256,,472
+473,Bromo Tengger Semeru National Park,"Taman nasional dengan pemandangan gunung berapi, savana, dan lautan pasir.",Taman Nasional,Malang,,4.8,,"{'lat': -7.942493, 'lng': 112.953012}",-7.942493,112.953012,,473
+474,Pantai Batu Bengkung,Pantai dengan formasi batu karang yang indah dan laguna alami.,Pantai,Malang,,4.5,,"{'lat': -8.399167, 'lng': 112.563056}",-8.399167,112.563056,,474
+475,Pantai Nganteb,"Pantai dengan ombak besar, cocok untuk surfing dan kegiatan pantai.",Pantai,Malang,,4.4,,"{'lat': -8.406389, 'lng': 112.569722}",-8.406389,112.569722,,475
+476,Candi Singosari,Candi Hindu peninggalan Kerajaan Singhasari dengan arsitektur yang indah.,"Sejarah, Budaya",Malang,,4.4,,"{'lat': -7.897950, 'lng': 112.667778}",-7.89795,112.667778,,476
+477,Sumber Pitu Tumpang,Air terjun unik dengan tujuh aliran air terjun dalam satu lokasi.,Alam,Malang,,4.5,,"{'lat': -8.026389, 'lng': 112.797778}",-8.026389,112.797778,,477
+478,Pantai Watu Leter,Pantai dengan batu karang besar yang menjadi ciri khas dan ombak tenang.,Pantai,Malang,,4.4,,"{'lat': -8.405278, 'lng': 112.678056}",-8.405278,112.678056,,478
+479,Sumber Sira,Mata air jernih yang cocok untuk snorkeling dan menikmati keindahan bawah air.,"Alam, Pemandian",Malang,,4.5,,"{'lat': -8.199444, 'lng': 112.601389}",-8.199444,112.601389,,479
+480,Pemandian Kalireco,Pemandian alami dengan air yang sangat jernih dan suasana yang sejuk.,"Alam, Pemandian",Malang,,4.3,,"{'lat': -7.987778, 'lng': 112.632222}",-7.987778,112.632222,,480
+481,Pantai Kondang Merak,"Pantai dengan pasir putih, ombak yang tenang, dan banyak spot snorkeling.",Pantai,Malang,,4.5,,"{'lat': -8.413333, 'lng': 112.569167}",-8.413333,112.569167,,481
+482,Coban Sewu,Air terjun megah yang memiliki banyak aliran air terjun seperti tirai.,Alam,Malang,,4.7,,"{'lat': -8.205556, 'lng': 112.930278}",-8.205556,112.930278,,482
+483,Pantai Bajulmati,"Pantai dengan tebing batu yang unik dan ombak besar, cocok untuk surfing.",Pantai,Malang,,4.4,,"{'lat': -8.402222, 'lng': 112.636389}",-8.402222,112.636389,,483
+484,Coban Tundo,Air terjun dengan kolam alami yang jernih dan suasana yang sejuk.,Alam,Malang,,4.5,,"{'lat': -8.331944, 'lng': 112.681389}",-8.331944,112.681389,,484
+485,Lembah Kera,Lembah alami dengan keindahan alam yang masih alami dan banyak kera liar.,Alam,Malang,,4.3,,"{'lat': -8.112222, 'lng': 112.705833}",-8.112222,112.705833,,485
+486,Pantai banyu Anjlok,Pantai unik dengan air terjun yang langsung mengalir ke laut.,"Pantai, Alam",Malang,,4.6,,"{'lat': -8.441667, 'lng': 112.713056}",-8.441667,112.713056,,486
+487,Pantai Sipelot,Pantai dengan pemandangan laut biru dan hutan hijau yang mengelilingi.,Pantai,Malang,,4.4,,"{'lat': -8.409722, 'lng':  112.643889}",-8.409722,112.643889,,487
+488,Pantai Tamban,Pantai yang cocok untuk berkemah dan memancing dengan pemandangan,Pantai,Malang,,4.4,,"{'lat': -8.451667, 'lng': 112.635278}",-8.451667,112.635278,,488
+489,Pantai Licin,Pantai dengan pasir hitam dan batuan vulkanik yang unik.,Pantai,Malang,,4.3,,"{'lat': -8.470278, 'lng': 112.636944}",-8.470278,112.636944,,489
+490,Pantai Wendit,Pemandian alami dengan sumber air yang segar dan suasana tradisional.,"Pemandian, Alam",Malang,,4.3,,"{'lat': -7.970000, 'lng': 112.650833}",-7.97,112.650833,,490
+491,Pantai Bowele,Pantai yang terkenal di kalangan peselancar dengan ombak yang besar.,Pantai,Malang,,4.5,,"{'lat': -8.459167, 'lng': 112.665278}",-8.459167,112.665278,,491
+492,Pantai Wedi Awu,Pantai yang terkenal untuk aktivitas surfing dan pemandangan yang eksotis.,Pantai,Malang,,4.4,,"{'lat': -8.437500, 'lng': 112.651944}",-8.4375,112.651944,,492
+493,Pantai Sendiki,"Pantai dengan pasir putih dan hutan yang mengelilingi, cocok untuk",Pantai,Malang,,4.5,,"{'lat': -8.440000, 'lng': 112.631389}",-8.44,112.631389,,493
+494,Pantai Ungapan,Pantai dengan ombak yang tenang dan pemandangan laut yang,Pantai,Malang,,4.4,,"{'lat': -8.418611, 'lng': 112.649722}",-8.418611,112.649722,,494
+,,,,,,,,,,,,
