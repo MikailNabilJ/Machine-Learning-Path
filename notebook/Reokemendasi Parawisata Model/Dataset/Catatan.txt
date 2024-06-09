@@ -1,0 +1,28 @@
+korelasi antara dataset di folder mandatory
+
+penjelasan dataset :
+
+rating_baru.csv = isinya dataset user yang ngasih rating ke suatu tempat
+
+place_malang.csv = isinya data tempat wisata di malang sebanyak 57 tempat
+
+user.csv = isinya biodata dari si user 
+
+one to many
+one = rating_baru.csv
+many = place_malang.csv & user.csv
+
+alur :
+
+di place_malang.csv, terdapat atribut "Place_Id"
+
+di rating_baru.csv juga terdapat atribut "Place_Id" yang gunanya di place id nomor berapa sih si user ngasih rating
+
+di rating_baru.csv ada atribut User_Id
+di user.csv juga ada atribut User_Id
+atribut User_Id untuk menandakan siapa sih yang ngisi rating dan asalnya darimana 
+
+nantik copas aja
+
+
+
